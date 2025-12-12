@@ -5,6 +5,16 @@ draft: false
 
 ---
 
+### poissonSIM
+
+**status**: `completed` • **finished**: dec 2024
+
+bank queue simulator using poisson distribution to model customer arrivals over an 8-hour workday. built with C, demonstrates linked lists, dynamic memory allocation, and statistical analysis (mean, median, mode, std dev).
+
+[github.com/Aj4y7/poissonSIM](https://github.com/Aj4y7/poissonSIM)
+
+---
+
 ### classec
 
 **status**: `completed` • **finished**: oct 2025
