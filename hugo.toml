@@ -4,6 +4,9 @@ title = "Ajay"
 theme = "typo"
 enableRobotsTXT = true
 
+[pagination]
+  pagerSize = 100
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -13,6 +16,7 @@ enableRobotsTXT = true
   description = "backend developer focused on go, apis, and distributed systems."
   favicon = "/profile.jpg"
   showReadingTime = false
+  paginationSize = 100
   footerContent = """
   [github](https://github.com/aj4y7) • [linkedin](https://linkedin.com/in/ajaymishra7) • [codeforces](https://codeforces.com/profile/aj4y)
   """
