@@ -20,11 +20,11 @@ To understand this article, you should be familiar with:
 
 ## Overview
 
-The Standard Euclidean Algorithm is used to find the Greatest Common Divisor (GCD) of two numbers. However, for many applications in number theory and competitive programming (like finding modular inverses), we need to find the integer coefficients that satisfy **Bezout's Identity**.
+The Standard Euclidean Algorithm is used to find the Greatest Common Divisor (GCD) of two numbers. However, for many applications in number theory and competitive programming (like finding modular inverses), we need to find the integer coefficients that satisfy **Bezout Identity**.
 
-## Bezout's Identity
+## Bezout Identity
 
-Bezout's identity states that for any integers $a$ and $b$:
+Bezout identity states that for any integers $a$ and $b$:
 
 $$
 \exists \space x,y \in Z \space such \space that \space ax + by = gcd(a,b)
