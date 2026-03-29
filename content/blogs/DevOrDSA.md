@@ -1,7 +1,7 @@
 +++
 date = '2025-10-23T22:50:50+05:30'
 draft = false
-title = "DSA or Dev: A beginner's guide"
+title = "DSA or Dev: A Beginner's Guide"
 tags = ["student", "college", "dev", "DSA"]
 categories = ["doubt"]
 summary = ""
