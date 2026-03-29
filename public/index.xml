@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajay</title>
-    <link>http://localhost:1313/</link>
+    <link>https://aj4y7.github.io/</link>
     <description>Recent content on Ajay</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Dec 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aj4y7.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extended Euclidean Algorithm: Deriving Bezout&#39;s Coefficients</title>
-      <link>http://localhost:1313/blogs/extended-euclidean-algorithm/</link>
+      <link>https://aj4y7.github.io/blogs/extended-euclidean-algorithm/</link>
       <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/extended-euclidean-algorithm/</guid>
+      <guid>https://aj4y7.github.io/blogs/extended-euclidean-algorithm/</guid>
       <description>Derivation and C++ implementation of the extended Euclidean algorithm and Bezout coefficients.</description>
     </item>
     <item>
-      <title>DSA or Dev: A beginner&#39;s guide</title>
-      <link>http://localhost:1313/blogs/devordsa/</link>
+      <title>DSA or Dev: A Beginner&#39;s Guide</title>
+      <link>https://aj4y7.github.io/blogs/devordsa/</link>
       <pubDate>Thu, 23 Oct 2025 22:50:50 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/devordsa/</guid>
+      <guid>https://aj4y7.github.io/blogs/devordsa/</guid>
       <description>&lt;h1 class=&#34;heading&#34; id=&#34;disclaimer&#34;&gt;&#xA;  DISCLAIMER&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#disclaimer&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;It&amp;rsquo;s all just my opinion and experience. Please don’t quote me on anything I say here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;dsa-or-development---what-should-you-do-as-a-freshman&#34;&gt;&#xA;  DSA or Development - What Should You Do as a Freshman?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dsa-or-development---what-should-you-do-as-a-freshman&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been asked this question many times by friends:&lt;br&gt;&#xA;&lt;strong&gt;What should I do as a freshman, DSA or Development?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here’s what I think.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;for-those-who-havent-done-any-programming-yet&#34;&gt;&#xA;  For Those Who Haven’t Done Any Programming Yet&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#for-those-who-havent-done-any-programming-yet&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;If you haven’t done any programming until now, just focus on learning the fundamentals first.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://aj4y7.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;hi-i-am-ajay&#34;&gt;&#xA;  hi, i am Ajay&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hi-i-am-ajay&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;computer science student.&lt;/p&gt;&#xA;&lt;p&gt;currently focused on competitive programming, data structures, and discrete mathematics. i solve problems on codeforces and study algorithmic challenges.&lt;/p&gt;&#xA;&lt;p&gt;i also build backend systems with go and typescript.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;what-i-work-with&#34;&gt;&#xA;  what i work with&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-i-work-with&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;core focus&lt;/strong&gt;: algorithms, data structures, discrete mathematics, graph theory&lt;br&gt;&#xA;&lt;strong&gt;languages&lt;/strong&gt;: c++ (competitive programming), go, typescript&lt;br&gt;&#xA;&lt;strong&gt;also exploring&lt;/strong&gt;: distributed systems, backend development&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;when-i-am-not-coding&#34;&gt;&#xA;  when i am not coding&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#when-i-am-not-coding&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;solving problems on &lt;a href=&#34;https://codeforces.com/profile/aj4y&#34;&gt;codeforces&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;studying computer science theory&lt;/li&gt;&#xA;&lt;li&gt;contributing to open-source&lt;/li&gt;&#xA;&lt;li&gt;building side projects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;connect&#34;&gt;&#xA;  connect&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#connect&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:ajaykumishra41@gmail.com&#34;&gt;ajaykumishra41@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;github: &lt;a href=&#34;https://github.com/aj4y7&#34;&gt;github.com/aj4y7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;linkedin: &lt;a href=&#34;https://linkedin.com/in/ajaymishra7&#34;&gt;linkedin.com/in/ajaymishra7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;codeforces: &lt;a href=&#34;https://codeforces.com/profile/aj4y&#34;&gt;codeforces.com/profile/aj4y&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;feel free to reach out for collabs, questions, or just to chat about algorithms and cs.&lt;/p&gt;</description>
+      <guid>https://aj4y7.github.io/about/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;hi-i-am-ajay&#34;&gt;&#xA;  hi, i am Ajay&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hi-i-am-ajay&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;computer science student.&lt;/p&gt;&#xA;&lt;p&gt;currently focused on competitive programming, data structures, and discrete mathematics. i solve problems on codeforces and study algorithmic challenges.&lt;/p&gt;&#xA;&lt;p&gt;i also build backend systems with go and typescript.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;what-i-work-with&#34;&gt;&#xA;  what i work with&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-i-work-with&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;core focus&lt;/strong&gt;: algorithms, data structures, discrete mathematics, graph theory&lt;br&gt;&#xA;&lt;strong&gt;languages&lt;/strong&gt;: c++ (competitive programming), go, typescript&lt;br&gt;&#xA;&lt;strong&gt;also exploring&lt;/strong&gt;: distributed systems, backend development&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;when-i-am-not-coding&#34;&gt;&#xA;  when i am not coding&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#when-i-am-not-coding&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;solving problems on &lt;a href=&#34;https://codeforces.com/profile/dissect&#34;&gt;codeforces&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;studying computer science theory&lt;/li&gt;&#xA;&lt;li&gt;contributing to open-source&lt;/li&gt;&#xA;&lt;li&gt;building side projects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;connect&#34;&gt;&#xA;  connect&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#connect&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:ajaykumishra41@gmail.com&#34;&gt;ajaykumishra41@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;github: &lt;a href=&#34;https://github.com/aj4y7&#34;&gt;github.com/aj4y7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;linkedin: &lt;a href=&#34;https://linkedin.com/in/ajaymishra7&#34;&gt;linkedin.com/in/ajaymishra7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;codeforces: &lt;a href=&#34;https://codeforces.com/profile/dissect&#34;&gt;codeforces.com/profile/dissect&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;feel free to reach out for collabs, questions, or just to chat about algorithms and cs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://aj4y7.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://aj4y7.github.io/projects/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;poissonsim&#34;&gt;&#xA;  poissonSIM&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#poissonsim&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;status&lt;/strong&gt;: &lt;code&gt;completed&lt;/code&gt; • &lt;strong&gt;finished&lt;/strong&gt;: dec 2024&lt;/p&gt;&#xA;&lt;p&gt;bank queue simulator using poisson distribution to model customer arrivals over an 8-hour workday. built with C, demonstrates linked lists, dynamic memory allocation, and statistical analysis (mean, median, mode, std dev).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Aj4y7/poissonSIM&#34;&gt;github.com/Aj4y7/poissonSIM&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;classec&#34;&gt;&#xA;  classec&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#classec&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;status&lt;/strong&gt;: &lt;code&gt;completed&lt;/code&gt; • &lt;strong&gt;finished&lt;/strong&gt;: oct 2025&lt;/p&gt;&#xA;&lt;p&gt;college class alert system that sends automated push notifications 15 minutes before each class. built with go, robfig/cron for scheduling, and ntfy.sh for notifications. reads timetables from csv and handles section-specific topics.&lt;/p&gt;</description>
     </item>
   </channel>

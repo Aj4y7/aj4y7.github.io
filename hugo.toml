@@ -18,7 +18,7 @@ enableRobotsTXT = true
   showReadingTime = false
   paginationSize = 100
   footerContent = """
-  [github](https://github.com/aj4y7) • [linkedin](https://linkedin.com/in/ajaymishra7) • [codeforces](https://codeforces.com/profile/aj4y)
+  [github](https://github.com/aj4y7) • [linkedin](https://linkedin.com/in/ajaymishra7) • [codeforces](https://codeforces.com/profile/dissect)
   """
 
 [[params.menu]]

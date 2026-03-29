@@ -18,7 +18,7 @@ i also build backend systems with go and typescript.
 
 ## when i am not coding
 
-- solving problems on [codeforces](https://codeforces.com/profile/aj4y)
+- solving problems on [codeforces](https://codeforces.com/profile/dissect)
 - studying computer science theory
 - contributing to open-source
 - building side projects
@@ -28,6 +28,6 @@ i also build backend systems with go and typescript.
 - email: [ajaykumishra41@gmail.com](mailto:ajaykumishra41@gmail.com)
 - github: [github.com/aj4y7](https://github.com/aj4y7)
 - linkedin: [linkedin.com/in/ajaymishra7](https://linkedin.com/in/ajaymishra7)
-- codeforces: [codeforces.com/profile/aj4y](https://codeforces.com/profile/aj4y)
+- codeforces: [codeforces.com/profile/dissect](https://codeforces.com/profile/dissect)
 
 feel free to reach out for collabs, questions, or just to chat about algorithms and cs.
